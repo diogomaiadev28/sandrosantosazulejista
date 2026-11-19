@@ -1,8 +1,8 @@
 <template>
-  <section class="py-30 flex justify-center">
+  <section class="px-6 micro:px-18 py-30 flex justify-center">
     <div class="max-w-300 w-full flex-col space-y-10">
       <SectionsTitle>Serviços</SectionsTitle>
-      <div class="grid grid-cols-4 gap-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4  gap-16 xl:gap-8">
         <ServicesCard>
           <template #title>Assentamento de azulejos</template>
           <template #description>Paredes de cozinhas, banheiros e áreas de serviço com prumo e nível perfeitos.</template>
