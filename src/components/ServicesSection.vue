@@ -17,7 +17,7 @@
         </ServicesCard>
         <ServicesCard>
           <template #title>Reformas e reparos</template>
-          <template #description>Troca de peças, rejuntamento e recuperação de revestimentos antigos.</template>
+          <template #description>Fazemos demolição impermeabilização contra piso, Alvenaria, Reboco e Hidráulica.</template>
         </ServicesCard>
       </div>
     </div>

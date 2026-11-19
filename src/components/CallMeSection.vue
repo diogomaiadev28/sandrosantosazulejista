@@ -27,7 +27,7 @@
         <WhatsappButton>Solicitar orçamento grátis</WhatsappButton>
       </div>
       <figure class="sm:block hidden">
-        <img class="w-100 md:w-160 xl:w-200 border-gold-default border-3 rounded-xl" src="/src/img/example1.jpg" alt="">
+        <img class="w-100 md:w-160 xl:w-200 border-gold-default border-3 rounded-xl" src="/src/img/Untitled5.jpg" alt="">
       </figure>
     </div>
   </section>
